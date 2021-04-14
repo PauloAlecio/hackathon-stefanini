@@ -13,7 +13,7 @@ class Exercicio1 {
 
         public static void main(String[] args){
 
-        System.out.println("Olá eu sou Paulo Alécio e estou participando do Imersão DEV da Stefanini \\o/ !!");
+        System.out.println("Olá eu sou Paulo Alécio e estou participando do Maratona DEV da Stefanini \\o/ !!");
 
         }
 }
