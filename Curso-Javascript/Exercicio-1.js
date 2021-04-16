@@ -2,5 +2,5 @@
 
 // Fórmula : A + B + C + D / 4.
 
-media = (5+10+79+53+13) / 5;
+media = (5 + 10 + 79 + 13) / 4;
 console.log(media);
